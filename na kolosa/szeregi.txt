@@ -1,0 +1,9 @@
+liczba ósemkowa 1234 na dziesiętny:
+3210
+1234 = 4 * 8^0 + 3 * 8^1 + 2 * 8^2 + 1 * 8^3
+
+3A5B szesnastkowa na dziesiętny
+
+3210
+3A5B = 11 * 16^0 + 5 * 16^1 + …
+
